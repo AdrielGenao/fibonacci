@@ -1,2 +1,2 @@
 # fibonacci
-Python Project
+Simple take on printing a fibonacci sequence.
